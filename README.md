@@ -29,10 +29,15 @@ CSV / Healthcare Datasets
 📂 Project Structure:
 
 healthcare-bigdata/
+
 │── data/                # Dataset files
+
 │── notebooks/           # Jupyter notebooks / analysis
+
 │── src/                 # Source code
+
 │── outputs/             # Graphs & results
+
 │── README.md            # Project documentation
 
 ⚙️ Features:
